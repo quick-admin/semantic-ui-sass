@@ -1,3 +1,17 @@
+## 2.1.4.0
+
+* Rename breadcrumb methods to follow semantic_ naming
+
+* Update Semantic UI to 2.1.4
+
+## 2.0.7.0
+
+* Update Semantic UI to 2.0.7
+
+## 2.0.4.0
+
+* Update Semantic UI to 2.0.4
+
 ## 1.12.3.0
 
 * Update Semantic UI to 1.12.3
